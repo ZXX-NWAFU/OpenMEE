@@ -44,3 +44,13 @@ Unit tests
 
 See https://github.com/gdietz/OpenMEE/wiki/Unit-Testing. 
 
+使用指南：
+1.若需要使用请引用此文献
+Wallace, B. C., Lajeunesse, M. J., Dietz, G., Dahabreh, I. J., Trikalinos, T. A., Schmid, C. H. and Gurevitch, J. (2017), OpenMEE: Intuitive, open-source software for meta-analysis in ecology and evolutionary biology. Methods Ecol Evol, 8: 941–947. 
+![image](https://user-images.githubusercontent.com/107970437/175404980-584e11e2-b132-414e-83d7-8f9ea1c69d0b.png)
+
+2.优缺点：旋钮软件；作图差且无法数据嵌套
+
+3.数据读入，路径非中文，读入后写入ID
+
+4.
